@@ -34,7 +34,7 @@ IDE: NetBeans (Maven project structure)
 ⚙ Installation & Setup
 
 Clone the repository:
-git clone https://github.com/your-username/eshop.git
+git clone [https://github.com/your-username/eshop.git](https://github.com/thegeekcult/EShop)
 
 Import the project in NetBeans.
 
